@@ -14,5 +14,7 @@ screenshots.zip: contains all screenshots required for project submission
 
 web distribution
 	- I've restricted bucket access to force users always access the website endpoint using CloudFront URLs, not Amazon S3 URLs.
+	
 	- also forced redirect from http to https
+	
 	- website endpoint: https://de9sksvnaqnde.cloudfront.net/index.html
