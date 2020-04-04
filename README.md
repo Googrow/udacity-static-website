@@ -17,4 +17,4 @@ web distribution
 	
 	- also forced redirect from http to https
 	
-	- website endpoint: https://de9sksvnaqnde.cloudfront.net/index.html
+	- website endpoint: https://dmya6erdgpfor.cloudfront.net/index.html
